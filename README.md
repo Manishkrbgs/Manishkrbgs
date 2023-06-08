@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Manishkrbgs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to readme-md-generator
+##### version-0.5.0 npm>=5.0 node>=9.3.0 documentation yes maintained? yes licensed Mit follow @FranchAbgrall
+#### 🏠homepage
+# Prerequisites
+* npm>=5.5.0
+* node >=9.3.0
+# Install
+```
+ npm install
+```
+# Usage
+```bash
+npm run start
+```
+# Run tests
+```bash
+npn run test
+```
+#👤 Author
+* ### manish kumar
+* * Github:[@Manishkrbgs](https://github.com/Manishkrbgs/Manishkrbgs)
 
-<!---
-Manishkrbgs/Manishkrbgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## contributing
+Contributions,issues and feature requests are welcome!
+Feel free to check[issue page.](http://www.traversymedia.com)
+## show your support
+Give a ⭐if this project helps u.
+
