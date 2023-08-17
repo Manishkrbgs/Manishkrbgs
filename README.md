@@ -31,7 +31,7 @@
 <a href="https://twitter.com/Mrazz938Kumar" target="blank"><img src="https://img.icons8.com/color/40/000000/twitter--v2.png"/></a>
 <a href="https://www.linkedin.com/in/its-me-manish/" target="blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/manish_razzzz/#" target="blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
-<a href="mrazz938@gmail.com" target="blank"><img src="https://img.icons8.com/color/40/000000/gmail.png"/></a>
+<a href="mailto:mrazz938@gmail.com" target="blank"><img src="https://img.icons8.com/color/40/000000/gmail.png"/></a>
 <a href="https://github.com/Manishkrbgs/" target="blank"><img src="https://img.icons8.com/?size=40&id=12599&format=png" /></a>
  
  </p>
