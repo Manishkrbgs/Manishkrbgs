@@ -3,6 +3,7 @@
 <p><em><h3> Java Springboot Apprentice at Geekster
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 </em></p>
+
  <h3>🫠🫠About me</h3> 
 👤I'm a passionate Java Springboot Developer✍ and visionary, dedicated to leading and inspiring upcoming talents and developers. I love being part of minds that give back to the community. Open-Source contribution and community development are my greatest passion!
 
@@ -12,7 +13,7 @@
 - 💬 Ask me about anything in tech If possible I will answer 🤞
 - ⚡ Fun fact: I love coding and solving DSA problems
  
-###😉#<h2> Languages and Tools:
+<h2>😉 Languages and Tools:</h2>
  
 <p>
 <img src="https://img.icons8.com/?size=40&id=b9csPDvC8JBF&format=png"/> 
@@ -24,8 +25,8 @@
 <img src="https://img.icons8.com/color/40/000000/github.png"/> 
 <img src="https://img.icons8.com/?size=40&id=61466&format=png"/>
 </p>
-
-### Connect with me:
+<h4><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h4>
+<h2>🤝Connect with me:</h2> 
 
 <p align="left">  
 <a href="https://twitter.com/Mrazz938Kumar" target="blank"><img src="https://img.icons8.com/color/40/000000/twitter--v2.png"/></a>
